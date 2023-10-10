@@ -1,4 +1,4 @@
-Author: Rudraneel Bhattacharyya
+Author: Rudraneel Bhattacharyya\
 Tools: C++, Data Structures and Algorithms
 Date: 15/05/2023
 
